@@ -24,6 +24,8 @@ as identifier
 
 ## My Solution
 
+All requirements are fulfilled by my solution, but mocks the sending of notifications to subscribers due to time limitations.
+
 ### Rough system structure
 
 #### Incoming HTTP-requests:  
@@ -52,9 +54,9 @@ responsibility).
 2. Looks for new messages by comparing against a private cache of already seen  
 <messageId, area> pairs. Adds unseen ones and notifies all subscribers in its  
 area.
-3. Looks for new subscribers by comparing against a private cache of already seen
-<subscriber identifier, area> pairs. Adds unseen ones and finds the relevant  
-messages in the cache.  
+3. Looks for new subscriptions by comparing against a private cache of already seen
+<subscribtions identifier, area> pairs. Adds unseen ones and finds the relevant  
+messages in the cache and sends them to the new subscribers.  
 4. Resets both caches every 24 hours at 7 am.
 
 
