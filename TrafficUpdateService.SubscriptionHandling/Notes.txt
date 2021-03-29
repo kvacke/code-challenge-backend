@@ -1,0 +1,5 @@
+﻿Förbättringar:
+Bättre input-validering
+Säkerställ att läsa uncommitted,
+Parsea direkt till en messagedatatyp och in i DB istället för att hålla på med XElement?
+Rensa i subscriptiontabellen

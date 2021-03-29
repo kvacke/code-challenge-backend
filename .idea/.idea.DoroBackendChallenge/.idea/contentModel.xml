@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jensb\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jensb\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_DoroBackendChallenge.1264954439.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jensb\source\repos\DoroBackendChallenge" t="IncludeFlat">
+      <e p="DoroBackendChallenge.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TrafficUpdateService.SubscriptionHandling" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="SubscriptionsController.cs" t="Include" />
+        </e>
+        <e p="ITrafficDataAccess.cs" t="Include" />
+        <e p="Logs" t="Include">
+          <e p="log.txt" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Notification.cs" t="Include" />
+          <e p="Subscription.cs" t="Include" />
+          <e p="SubscriptionContext.cs" t="Include" />
+        </e>
+        <e p="NotificationService.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="TrafficUpdateSubscriptionSystem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="ISubscriptionRepository.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="TrafficDataAccess.cs" t="Include" />
+        <e p="TrafficUpdateSubscriptionSystem.csproj" t="IncludeRecursive" />
+        <e p="Validators" t="Include">
+          <e p="SubscriptionValidator.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
