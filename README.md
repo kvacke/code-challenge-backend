@@ -3,7 +3,7 @@
 ## Introduction
 
 This project was my contribution to Doro's backend challenge.  
-It is a traffic update subscription made with ASP.NET core and bootstrapped with 
+It is a traffic update subscription service made with ASP.NET core and bootstrapped with 
 its Web API template.
 
 ## The Challenge
