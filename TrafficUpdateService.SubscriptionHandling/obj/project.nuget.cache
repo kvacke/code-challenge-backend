@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p9wExGDbLTW4mU47g7FnNYEkrsMfaLS16lzWSM6oJSNIssEM7bh/QEay3A/f+89tOqF6iKU/ymbGRAOXOIG/dQ==",
+  "dgSpecHash": "BTv1WshGSrE9dAmUNPYbRcEwvhVgDoD+znbEVPZm2XTW31cxwPPdDi4rmc7xVMWlteTho8hjFbaifvY0TP05Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jensb\\source\\repos\\DoroBackendChallenge\\TrafficUpdateService.SubscriptionHandling\\TrafficUpdateSubscriptionSystem.csproj",
+  "projectFilePath": "C:\\Users\\jensb\\source\\repos\\code-challenge-backend\\TrafficUpdateService.SubscriptionHandling\\TrafficUpdateSubscriptionSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jensb\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\jensb\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.3\\fluentvalidation.aspnetcore.9.5.3.nupkg.sha512",

@@ -8393,11 +8393,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jensb\\source\\repos\\DoroBackendChallenge\\TrafficUpdateService.SubscriptionHandling\\TrafficUpdateSubscriptionSystem.csproj",
+      "projectUniqueName": "C:\\Users\\jensb\\source\\repos\\code-challenge-backend\\TrafficUpdateService.SubscriptionHandling\\TrafficUpdateSubscriptionSystem.csproj",
       "projectName": "TrafficUpdateSubscriptionSystem",
-      "projectPath": "C:\\Users\\jensb\\source\\repos\\DoroBackendChallenge\\TrafficUpdateService.SubscriptionHandling\\TrafficUpdateSubscriptionSystem.csproj",
+      "projectPath": "C:\\Users\\jensb\\source\\repos\\code-challenge-backend\\TrafficUpdateService.SubscriptionHandling\\TrafficUpdateSubscriptionSystem.csproj",
       "packagesPath": "C:\\Users\\jensb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jensb\\source\\repos\\DoroBackendChallenge\\TrafficUpdateService.SubscriptionHandling\\obj\\",
+      "outputPath": "C:\\Users\\jensb\\source\\repos\\code-challenge-backend\\TrafficUpdateService.SubscriptionHandling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jensb\\AppData\\Roaming\\NuGet\\NuGet.Config",
